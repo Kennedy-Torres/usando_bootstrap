@@ -1,0 +1,5 @@
+Hospedagem -> sites ... envia arquivo do git ou de uma pasta no desktop
+
+deploy .... arquivos .... caso precise fazer alterações no site.
+
+Site settings (mudar o nome do site, site information, Change site name)->
